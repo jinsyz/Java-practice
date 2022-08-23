@@ -1,3 +1,5 @@
+package chapter3;
+
 public class chapter3to1 {
     public static void main(String[] args) {
         int x = 2;

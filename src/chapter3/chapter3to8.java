@@ -1,3 +1,5 @@
+package chapter3;
+
 public class chapter3to8 {
     public static void main(String[] args) {
         byte a = 10;

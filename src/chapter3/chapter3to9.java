@@ -1,3 +1,5 @@
+package chapter3;
+
 public class chapter3to9 {
     public static void main(String[] args) {
         char ch = 'z';

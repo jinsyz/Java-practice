@@ -1,3 +1,5 @@
+package chapter3;
+
 public class chapter3to7 {
     public static void main(String[] args) {
         int fahrenhelt = 100;
